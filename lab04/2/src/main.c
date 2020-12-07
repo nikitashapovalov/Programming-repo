@@ -14,8 +14,5 @@ int main()
 	float yo = y1 / 100.0f;
 	// Перевірка ділення на нуль 
 	if (xi == 0)
-	{ 
-	  exit(1);
-	 }
 	return 0;
 }
